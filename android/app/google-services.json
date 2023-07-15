@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61091393365",
+    "project_id": "oak-apen",
+    "storage_bucket": "oak-apen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61091393365:android:ab03e181d93578ed7e49dc",
+        "android_client_info": {
+          "package_name": "com.example.oak_appian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61091393365-u56bh1o2utvkjs272vmmcl0ht1tj3fjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPV4G8hay--d9PW6roW3WEnTghOj05NKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61091393365-u56bh1o2utvkjs272vmmcl0ht1tj3fjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
