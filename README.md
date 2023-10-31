@@ -1,6 +1,6 @@
 # oak_appian
 
-A new Flutter project.
+A new Flutter project designed for a desert delivery startup.
 
 ## Getting Started
 
